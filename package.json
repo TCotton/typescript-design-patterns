@@ -1,0 +1,14 @@
+{
+  "name": "typescript-design-patterns",
+  "version": "1.0.0",
+  "description": "TypeScript design patterns based on Pluralsight course",
+  "main": "index.js",
+  "repository": "git@github.com:TCotton/typescript-design-patterns.git",
+  "author": "Andy Walpole <me@andywalpole.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^10.0.3",
+    "tslint": "^5.7.0",
+    "typescript": "^2.5.2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["es2015", "es2017"],
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node",
+    "pretty": true,
+    "stripInternal": true,
+    "noEmitHelpers": false,
+    "outDir": "ts-out",
+    "allowJs": true,
+    "skipLibCheck": true,
+    "types": []
+  },
+  "include": [
+    "command-pattern/*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ],
+  "compileOnSave": false
+}
